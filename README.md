@@ -18,3 +18,15 @@ https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650790573&idx=1&sn=5440ed
 ## 神经网络与深度学习 中文教材
 
 https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/
+
+## 机器学习之集成学习
+
+https://blog.csdn.net/weixin_42001089/article/details/84935462
+
+## 集成学习之GBDT超详细推导
+
+https://blog.csdn.net/weixin_42001089/article/details/84937301
+
+集成学习之Xgboost超详细推导
+
+https://blog.csdn.net/weixin_42001089/article/details/84965333
